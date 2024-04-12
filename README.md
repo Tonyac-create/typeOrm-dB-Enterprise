@@ -1,4 +1,5 @@
 # Awesome Project Build with TypeORM
+Exercise with Express, MySQL for CRUD.
 
 Steps to run this project:
 
